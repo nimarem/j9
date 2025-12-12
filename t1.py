@@ -1,2 +1,3 @@
 def salary():
-    print('hello baby')fwffw
+    print('hello baby')
+    print('hi')
